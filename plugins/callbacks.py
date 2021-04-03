@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "Creater", url="@soulsharper")
+                        "Creater", url="https://t.me/SoulSharper")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
